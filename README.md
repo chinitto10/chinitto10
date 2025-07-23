@@ -3,7 +3,7 @@
 
 - :books: **I’m currently studying on Platzi**
 - :nerd_face: **I’m currently learning Git & GitHub**
-- :writting_hand: **I want to learn Python**
+- 💻 **I want to learn Python**
 - :video_game: **I'm a huge fan of Resident Evil games**
-- 🤞ingers: **I want to become a great developer**
+- 🤞 **I want to become a great developer**
 
