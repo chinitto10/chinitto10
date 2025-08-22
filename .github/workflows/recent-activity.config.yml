@@ -1,5 +1,0 @@
-# .github/recent-activity.config.yml
-max_events: 5
-exclude:
-  - "created a repository"
-  - "forked a repository"
